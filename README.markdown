@@ -1,4 +1,4 @@
-ofxKinect
+ofxKinect (fork del repo de theo watson)
 ==================
 
 Copyright (c) 2010, 2011 ofxKinect Team
